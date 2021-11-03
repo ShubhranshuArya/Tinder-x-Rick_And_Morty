@@ -1,16 +1,9 @@
-# grroom_tinder_lite
+# Tinder X Rick and Morty
 
-A new Flutter project.
+Tinder's UI and Rick and Morty's cast as the users.
 
-## Getting Started
+Api Used = "https://rickandmortyapi.com/api/character"
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/77967955/140026857-b841d1c7-11f6-4f74-835d-edd85545b2ca.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
